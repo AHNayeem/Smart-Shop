@@ -1,0 +1,13 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "AH Nayeem",
+            "email": "ahn.nayeem@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.0",
+        "intervention/image": "^2.4"
+    }
+}
