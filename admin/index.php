@@ -216,7 +216,7 @@ if(empty($_SESSION) || empty($_SESSION['id']) || empty($_SESSION['username'])){
                 include 'profile.php';
             }
             if($page == 'dashboard'){
-                include 'Dashboard.php';
+                include 'dashboard.php';
             }
             if($page == 'addCategory'){
                 include 'addCategory.php';
